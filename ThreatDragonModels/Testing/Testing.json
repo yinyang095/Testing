@@ -170,8 +170,8 @@
                 "height": 80
               },
               "position": {
-                "x": 461,
-                "y": 300
+                "x": 625,
+                "y": 342
               },
               "angle": 0,
               "id": "d4ed08e7-7409-4655-abb6-7703f6819674",
@@ -198,7 +198,16 @@
               "target": {
                 "id": "d4ed08e7-7409-4655-abb6-7703f6819674"
               },
-              "vertices": [],
+              "vertices": [
+                {
+                  "x": 703,
+                  "y": 227
+                },
+                {
+                  "x": 706,
+                  "y": 289
+                }
+              ],
               "id": "469e359d-056f-4067-b48d-38eff58160c0",
               "labels": [
                 {
@@ -295,6 +304,84 @@
                 },
                 "text": {
                   "text": "process 9"
+                },
+                ".element-text": {
+                  "class": "element-text hasNoOpenThreats isInScope"
+                }
+              }
+            },
+            {
+              "type": "tm.Process",
+              "size": {
+                "width": 100,
+                "height": 100
+              },
+              "position": {
+                "x": 50,
+                "y": 50
+              },
+              "angle": 0,
+              "id": "e1c7ee7f-d1cf-4899-be17-13e71830282d",
+              "z": 11,
+              "hasOpenThreats": false,
+              "attrs": {
+                ".element-shape": {
+                  "class": "element-shape hasNoOpenThreats isInScope"
+                },
+                "text": {
+                  "text": "process 10"
+                },
+                ".element-text": {
+                  "class": "element-text hasNoOpenThreats isInScope"
+                }
+              }
+            },
+            {
+              "type": "tm.Process",
+              "size": {
+                "width": 100,
+                "height": 100
+              },
+              "position": {
+                "x": 50,
+                "y": 50
+              },
+              "angle": 0,
+              "id": "c5018dd1-30b8-4d12-b632-45d50920fe41",
+              "z": 12,
+              "hasOpenThreats": false,
+              "attrs": {
+                ".element-shape": {
+                  "class": "element-shape hasNoOpenThreats isInScope"
+                },
+                "text": {
+                  "text": "process 11"
+                },
+                ".element-text": {
+                  "class": "element-text hasNoOpenThreats isInScope"
+                }
+              }
+            },
+            {
+              "type": "tm.Process",
+              "size": {
+                "width": 100,
+                "height": 100
+              },
+              "position": {
+                "x": 50,
+                "y": 50
+              },
+              "angle": 0,
+              "id": "bb17afe9-03e9-4f1d-a52e-9052658b7327",
+              "z": 13,
+              "hasOpenThreats": false,
+              "attrs": {
+                ".element-shape": {
+                  "class": "element-shape hasNoOpenThreats isInScope"
+                },
+                "text": {
+                  "text": "process 12"
                 },
                 ".element-text": {
                   "class": "element-text hasNoOpenThreats isInScope"
